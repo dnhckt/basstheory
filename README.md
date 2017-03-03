@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------
-                                                        MUSIC THEORY TOOLS
+                                                 MUSIC THEORY TOOLS
 -----------------------------------------------------------------------------------------------------------------------------
 Music theory is extremely useful when learning an instrument. The tools in this program aim to reinforce theoretical knowledge associated with bass guitar. Tools included: 
 1) Fretboard note display
