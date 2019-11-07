@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
                                                         GUIDE
 -----------------------------------------------------------------------------------------------------------------------------
-To use the tools, simply compile and run 'musictheory.c'.
+To use the tools, compile and run 'musictheory.c'.
 1) Fretboard note display
 2) Random note challenge
 3) Major chord note tester
